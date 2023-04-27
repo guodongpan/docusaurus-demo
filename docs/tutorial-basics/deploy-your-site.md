@@ -150,5 +150,9 @@ npm run build
 
 git add .
 
+git commit -m "feat: new build"
+
 git push
+
+记得修改 baseUrl
 
