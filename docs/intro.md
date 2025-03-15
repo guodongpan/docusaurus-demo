@@ -67,3 +67,7 @@ The `npm run start` command builds your website locally and serves it through a 
 
 打开`文档/介绍.Md `(这个页面)并编辑一些行:网站**自动重新加载**并显示您的更改。   
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+
+## 使用远程资源管理器编辑内容
+
+vs code 打开远程资源管理器，选择 github codespaces，即可远程浏览和开发远程上面的代码
